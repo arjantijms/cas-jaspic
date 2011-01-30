@@ -1,4 +1,7 @@
 = Problems =
 
-  * JBoss AS 6.0
+  * JBoss AS V6.0
    JBoss AS 6.0 supports JSR-196, but message exchanges will be failed.
+
+  * WebSphere V8.0
+   not checked.
