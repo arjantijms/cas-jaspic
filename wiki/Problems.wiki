@@ -1,0 +1,4 @@
+= Problems =
+
+  * JBoss AS 6.0
+   JBoss AS 6.0 supports JSR-196, but message exchanges will be failed.
